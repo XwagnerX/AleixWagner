@@ -12,6 +12,14 @@ Busco aprender constantemente, mejorar mis proyectos y colaborar con otros devs 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
+
+## 💼 Tecnologías favoritas
+
+| Frontend        | Backend         | Base de datos     | Herramientas     |
+|-----------------|-----------------|-------------------|------------------|
+| React, Vite     | Node.js, Express| MongoDB, MySQL    | Git, Figma, Postman |
+
+
 ## 📈 GitHub Stats
 ![Aleix's GitHub stats](https://github-readme-stats.vercel.app/api?username=XwagnerX&show_icons=true&theme=radical)
 
