@@ -1,9 +1,11 @@
 # 👋 Hola, soy Aleix Wagner
 Estudiante de DAW en l'Escola Pia · Amante del desarrollo web y la tecnología 🖥️
 
-- 🔭 Actualmente trabajando en un simulador de gestión con React + Node.js
-- 🌱 Aprendiendo MongoDB, Express y Vite
-- ⚡ Fun fact: Me encanta reparar PCs y trastear con Arduino
+## 🙋 Sobre mí
+
+Soy un estudiante de Desarrollo de Aplicaciones Web apasionado por la tecnología, la lógica y los retos. Me interesa especialmente el desarrollo full-stack.
+
+Busco aprender constantemente, mejorar mis proyectos y colaborar con otros devs para crecer juntos 🚀
 
 ## 🛠 Tecnologías
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
