@@ -11,7 +11,7 @@ Estudiante de DAW en l'Escola Pia · Amante del desarrollo web y la tecnología 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## 📈 GitHub Stats
-![Aleix's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixwgner&show_icons=true&theme=radical)
+![Aleix's GitHub stats](https://github-readme-stats.vercel.app/api?username=XwagnerX&show_icons=true&theme=radical)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tuusuario)
